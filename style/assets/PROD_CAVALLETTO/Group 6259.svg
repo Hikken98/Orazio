@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="413" height="43" viewBox="0 0 413 43">
+  <g id="Group_6259" data-name="Group 6259" transform="translate(-69.5 -871)">
+    <rect id="Rectangle_3087" data-name="Rectangle 3087" width="412" height="42" rx="2" transform="translate(70 871.5)" fill="#f5f5f5" stroke="#d1d1d1" stroke-width="1"/>
+    <text id="Seleziona" transform="translate(84 898)" fill="rgba(49,49,49,0.5)" font-size="14" font-family="'FieldGothic-No\.63Medium', Field Gothic" font-weight="500"><tspan x="0" y="0">Seleziona</tspan></text>
+    <g id="Group_6258" data-name="Group 6258" transform="translate(459 871.5)" opacity="0.995">
+      <path id="Rectangle_59" data-name="Rectangle 59" d="M0,0H21a2,2,0,0,1,2,2V40a2,2,0,0,1-2,2H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" fill="#f5f5f5" stroke="#e5e5e5" stroke-width="1"/>
+      <path id="Path_3366" data-name="Path 3366" d="M0,0,5.262,4.455.163,8.772H3.082l5.1-4.317L2.919,0Z" transform="translate(15.886 16.91) rotate(90)" fill="#c1c1c1"/>
+    </g>
+  </g>
+</svg>

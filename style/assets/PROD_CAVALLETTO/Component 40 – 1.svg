@@ -1,0 +1,32 @@
+<svg id="Component_40_1" data-name="Component 40 – 1" xmlns="http://www.w3.org/2000/svg" width="1440" height="46" viewBox="0 0 1440 46">
+  <g id="Rectangle_3071" data-name="Rectangle 3071" fill="#f5f5f5" stroke="#e5e5e5" stroke-width="1">
+    <rect width="1440" height="46" stroke="none"/>
+    <rect x="0.5" y="0.5" width="1439" height="45" fill="none"/>
+  </g>
+  <g id="Group_49" data-name="Group 49" transform="translate(777 -2422)">
+    <rect id="Rectangle_50" data-name="Rectangle 50" width="371" height="45" transform="translate(292 2422)" fill="#1e1e1e"/>
+    <g id="Group_6220" data-name="Group 6220" transform="translate(372 2435)">
+      <text id="Quick_buy" data-name="Quick buy" fill="#fff" font-size="25" font-family="AcuminProExtraCond-BlackItalic, Acumin Pro ExtraCondensed" font-weight="800" font-style="italic"><tspan x="-38" y="18">QUICK BUY</tspan></text>
+    </g>
+  </g>
+  <text id="da_18_90_2_pz" data-name="da € 18,90 / 2 pz" transform="translate(403 30)" fill="#313131" font-size="18" font-family="'FieldGothic-No\.62Regular', Field Gothic"><tspan x="0" y="0">da</tspan><tspan y="0" xml:space="preserve" font-family="'FieldGothic-No\.64Demi', Field Gothic" font-weight="300"> € 18,90 </tspan><tspan y="0">/ 2 pz</tspan></text>
+  <text id="Il_Cavalletto_Professionale" data-name="Il Cavalletto  Professionale" transform="translate(70 10)" fill="#1e1e1e" font-size="30" font-family="AcuminProExtraCond-BlackItalic, Acumin Pro ExtraCondensed" font-weight="800" font-style="italic"><tspan x="0" y="22" xml:space="preserve">Il Cavalletto  Professionale</tspan></text>
+  <g id="Group_6246" data-name="Group 6246" transform="translate(0 -725)" opacity="0">
+    <g id="Group_6245" data-name="Group 6245">
+      <rect id="Rectangle_57" data-name="Rectangle 57" width="190" height="27.167" rx="2" transform="translate(736 733.916)" fill="#fff" stroke="#d1d1d1" stroke-width="1"/>
+      <text id="Modello" transform="translate(750 753)" fill="rgba(49,49,49,0.5)" font-size="14" font-family="'FieldGothic-No\.64Demi', Field Gothic" font-weight="300"><tspan x="0" y="0">MODELLO</tspan></text>
+      <g id="Group_120" data-name="Group 120" transform="translate(903 733.916)" opacity="0.995">
+        <path id="Path_3366" data-name="Path 3366" d="M0,0,5.262,4.455.163,8.772H3.082l5.1-4.317L2.919,0Z" transform="translate(15.886 9.493) rotate(90)" fill="#c1c1c1"/>
+      </g>
+    </g>
+    <g id="Component_12_5" data-name="Component 12 – 5" transform="translate(969 734.459)">
+      <rect id="Rectangle_57-2" data-name="Rectangle 57" width="68" height="26.625" rx="2" fill="#fff" stroke="#d1d1d1" stroke-width="1"/>
+      <text id="_1" data-name="1" transform="translate(18.5 20.312)" fill="#313131" font-size="20" font-family="'FieldGothic-No\.63Medium', Field Gothic" font-weight="500"><tspan x="0" y="0">1</tspan></text>
+      <g id="Group_120-2" data-name="Group 120" transform="translate(45)" opacity="0.995">
+        <path id="Path_3367" data-name="Path 3367" d="M0,0,5.262,4.455.163,8.772H3.082l5.1-4.317L2.919,0Z" transform="translate(15.886 14.949) rotate(90)" fill="#c1c1c1"/>
+        <path id="Path_3368" data-name="Path 3368" d="M0,0,5.262,4.455.163,8.772H3.082l5.1-4.317L2.919,0Z" transform="translate(7.114 11.676) rotate(-90)" fill="#c1c1c1"/>
+      </g>
+    </g>
+    <text id="qt." transform="translate(942.5 753.182)" fill="rgba(49,49,49,0.5)" font-size="14" font-family="'FieldGothic-No\.64Demi', Field Gothic" font-weight="300"><tspan x="0" y="0">QT.</tspan></text>
+  </g>
+</svg>
