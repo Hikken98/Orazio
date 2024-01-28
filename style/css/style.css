@@ -242,13 +242,14 @@ section.product{
 
 .details-container .details-image{
     padding: 3rem;
-    margin-left: auto;
+    margin-left: 6rem;
 }
 .details-container .details-image img{
     border-radius: 2px;
 }
 
 .product-models{
+    margin-right: 5rem;
     padding: 4rem;
 }
 
